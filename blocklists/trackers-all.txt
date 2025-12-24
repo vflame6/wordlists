@@ -12,3 +12,5 @@ www.googletagmanager.com
 fls.doubleclick.net
 ingest.sentry.io
 sysstat.tildacdn.com
+www.facebook.com
+www.google-analytics.com

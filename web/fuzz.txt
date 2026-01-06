@@ -10721,7 +10721,8 @@ db/phpmyadmin3/
 db/phpmyadmin3/index.php
 db/sql
 db/txt.inc.php
-db/users.mdb Or db/teadmin.mdb
+db/users.mdb
+db/teadmin.mdb
 db/webadmin/
 db/webadmin/index.php
 db/webdb/

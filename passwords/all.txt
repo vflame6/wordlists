@@ -1,6 +1,4 @@
 
- Qwerty123
- Qwerty1234
 !!!Admin123
 !!!Admin1234
 !!!QAZ1qaz
@@ -20,6 +18,7 @@
 !!QAZxsw22
 !!QQ22ww
 !!QQaazz
+!!Qwerty12345
 !#QEadzc
 !111Qqqq
 !11Password
@@ -38,6 +37,7 @@
 !123Qqwe
 !123Qwer
 !123Qwerty
+!123qwe123qwe
 !123qweRTY
 !123qweasd
 !123qwer
@@ -183,6 +183,7 @@
 !@#123QWEasd
 !@#123QWEqwe
 !@#123qwe
+!@#123qweasdzxc
 !@#456QWE
 !@#456QWErty
 !@#456ZXCvbn
@@ -877,6 +878,7 @@
 !Qwerty7
 !Qwertyu
 !Qwertyuio
+!Radio123456
 !September2015
 !September2016
 !September2017
@@ -3844,6 +3846,7 @@ $secure$
 123456Mo
 123456N!
 123456Na
+123456Nbvcxz
 123456Nk
 123456Nm
 123456Nn
@@ -3907,6 +3910,7 @@ $secure$
 123456Qwert
 123456QwertY
 123456Qwerty
+123456Qwerty.
 123456Qwerty1
 123456Qwertyu
 123456Qwertyui
@@ -4249,6 +4253,7 @@ $secure$
 12345Tgb
 12345Trewq
 12345Ujm
+12345Ums
 12345Vbn
 12345Vbnm
 12345Vcxz
@@ -4277,6 +4282,7 @@ $secure$
 12345Zxcvb
 12345Zxcvbn
 12345Zxcvbnm
+12345Zxcvbnm12345
 12345Zxw
 12345Zz
 12345Zzz
@@ -6043,6 +6049,7 @@ $secure$
 1q2w3e4r5t6y7u8I
 1q2w3e4r5t6y7u8i
 1q2w3e4r5t6y7u8i!
+1q2w3e4r5t6y7u8i-
 1q2w3e4r5t6y7u8i9O
 1q2w3e4r5t6y7u8i9o!
 1q2w3e4r5t6y7u8i9o0P
@@ -9544,6 +9551,7 @@ $secure$
 555555qW
 555555tT
 55555Qwe
+55555Qwerty
 55556666
 5555Asdf
 5555Qwer
@@ -10020,6 +10028,7 @@ $secure$
 6Yhnbgt5
 6YhnmjU7
 6Yhnmju7
+6Zg4iu4E
 6^qwerty
 6qaz6QAZ
 6qaz@WSX
@@ -11210,6 +11219,7 @@ $secure$
 @QAZ2qaz
 @QAZ3wsx
 @QAZzaq2
+@Qazxsw54321
 @Qw123456
 @Qw12345678
 @Qwerty123
@@ -11299,6 +11309,7 @@ $secure$
 @Wsxcde34rfv
 @Wsxzaq1
 @X3c$V5b
+@Zxcvbn123456
 @dsl_xilno
 @january2015
 @january2016
@@ -11769,6 +11780,7 @@ ASD777asd
 ASD789asd
 ASD789qwe
 ASD789zxc
+ASDASDqwe123
 ASDF!asdf1
 ASDF-1234
 ASDF123!
@@ -13243,6 +13255,7 @@ Ak654321
 Ak777777
 Ak987654
 Ak@123456
+Akmal_2001
 Al123456
 Al1234567
 Al12345678
@@ -13483,6 +13496,7 @@ Alfa2025
 Alfa2026
 Alfa2027
 Alfa2406
+Alhamdulillah2026
 Ali123456
 Alicante1
 Alicante123
@@ -13987,6 +14001,7 @@ Andromeda2
 Andromeda3
 Andromeda4
 Andy$2211
+Anel050505
 Angel007
 Angel123
 Angel1234
@@ -15087,6 +15102,7 @@ Arrow2025
 Arrow2026
 Arrow2027
 Ars12345
+Arsenal1987$
 Art12345
 Art123456
 As!12345
@@ -15394,6 +15410,7 @@ As_123456
 Asa12345
 Asa123456
 Asa1234567
+Asalom654321
 Asante
 Asas1212
 Asas1234
@@ -15465,6 +15482,7 @@ Asd123456$
 Asd123456*
 Asd1234567
 Asd12345678
+Asd12345678!
 Asd123456789
 Asd1234567890
 Asd1234567891
@@ -15576,6 +15594,7 @@ Asd555555
 Asd567
 Asd56789
 Asd567890
+Asd567Fgh
 Asd654123
 Asd6541234
 Asd654321
@@ -15673,6 +15692,7 @@ Asd_2025
 Asd_2026
 Asd_2027
 Asdasd123
+Asdasd123123!
 Asdasd1234
 Asdasd12345
 Asdasd456
@@ -16225,6 +16245,7 @@ Asdfg999
 Asdfg@123
 Asdfg@1234
 Asdfg@12345
+Asdfg@123456
 Asdfg@321
 Asdfg@456
 AsdfgH1234
@@ -16315,6 +16336,7 @@ Asdfgh12#
 Asdfgh120
 Asdfgh123
 Asdfgh123!
+Asdfgh123!@#
 Asdfgh123#
 Asdfgh123$
 Asdfgh123*
@@ -16534,6 +16556,7 @@ Asdfgh@1
 Asdfgh@12
 Asdfgh@123
 Asdfgh@1234
+Asdfgh@123456
 Asdfgh@2
 Asdfgh@20
 Asdfgh@3
@@ -16544,6 +16567,7 @@ Asdfgh_12
 Asdfgh_123
 Asdfgh_1234
 Asdfgh_12345
+Asdfgh_123456
 Asdfgh_321
 Asdfgh`12
 Asdfghj!1
@@ -16710,6 +16734,7 @@ Asdfghjkl;'
 Asdfghjkl;'1
 Asdfghjkl;'123
 Asdfghjkl;'1234
+Asdfghjkl;'159
 Asdfghjkl;'2
 Asdfghjkl;'456
 Asdfghjkl;'\
@@ -16718,6 +16743,8 @@ Asdfghjkl;'\123
 Asdfghjkl;'\1234
 Asdfghjkl;'\456
 Asdfghjkl;1
+Asdfghjkl;11
+Asdfghjkl@12345
 Asdfgy78
 Asdfjkl;
 Asdfqw12
@@ -17818,6 +17845,7 @@ Australia2024
 Australia2025
 Australia2026
 Australia2027
+Austria17
 Austria20
 Austria2015
 Austria2016
@@ -18357,6 +18385,7 @@ Award2027
 Awer123456
 Awerty123
 Awerty1234
+Awertyuiop[]12
 Awesome123
 Awesome1234
 Awsedr12
@@ -18482,6 +18511,7 @@ Aza12345
 Azaz123456
 Azerty123
 Azerty1234
+Aziz0001
 Azq12345
 Azs12345
 Azs123456
@@ -18838,6 +18868,7 @@ Barcelona11
 Barcelona12
 Barcelona123
 Barcelona1234
+Barcelona1234567
 Barcelona13
 Barcelona16
 Barcelona17
@@ -21100,6 +21131,7 @@ Changeme123
 Changeme1234
 Changeme12345
 Changeme123456
+Changeme_123
 Changepass1
 Changepass12
 Changepass123
@@ -22592,6 +22624,7 @@ Cvbn_1234
 Cvbnm,./
 Cvbnm,123
 Cvbnm,1234
+Cvbnm,123456
 Cvbnm123
 Cvbnm1234
 Cvbnm12345
@@ -22859,6 +22892,7 @@ Darling2025
 Darling2026
 Darling2027
 Darthweider1
+Darya654321
 Das123456
 Date2015
 Date2016
@@ -23811,6 +23845,7 @@ Den12345
 Den123456
 Den1234567
 Den123456789
+Denis+++++
 Denmark2015
 Denmark2016
 Denmark2017
@@ -24120,6 +24155,7 @@ Difficultpassword1
 Difficultpassword12
 Difficultpassword123
 Difficultpassword1234
+Dilnoza123456
 Dim12345
 Dim123456
 Dimmod999
@@ -24457,6 +24493,7 @@ Dominos1
 Dominos123
 Dominos1234
 Don12345
+Doniyor789
 Dontremember1
 Dontremember2
 Donut123
@@ -25734,6 +25771,7 @@ Ewqewq1234
 Ewqmnb2#
 Ewqqwe123
 Ewqqwe1234
+Ewqrtyuiop12345
 Ex109052
 Exabyte
 Exam2015
@@ -27564,6 +27602,7 @@ Format123
 Format1234
 Formula1
 Formula1!
+Formula1$
 Formula123
 Formula1234
 Formula2
@@ -27971,6 +28010,7 @@ Fuckyou25
 Fuckyou26
 Fuckyou27
 Fuckyou4
+Fujitsu22222
 Fukuoka2015
 Fukuoka2016
 Fukuoka2017
@@ -28057,6 +28097,7 @@ G1234567g
 G123456g
 G1f2h3j4k5m6
 G273945026g
+G7$kL9#mQ2&xP4!w
 GATEWAY
 GGGggg111
 GHJ123ghj
@@ -30959,6 +31000,7 @@ Ikitikit1989!2
 Il123456
 Il654321
 Ilivemyself1
+Ilovejews1234
 Ilovemyjob
 Ilovemyjob!
 Ilovemyjob1
@@ -31307,6 +31349,7 @@ Internal12
 Internal123
 Internal1234
 Internal12345
+International1995
 Internet!
 Internet!1
 Internet*33
@@ -32527,6 +32570,7 @@ Jesus_2025
 Jesus_2026
 Jesus_2027
 Jetbalance1
+Jetpink12345
 Jg123456
 Jh123456
 Jhg567
@@ -33984,6 +34028,8 @@ Kalashnikov1234
 Kalashnikov2
 Kalashnikov3
 Kalashnikov5
+Kamila0505
+Kamila1719
 Kan123456
 Kar12345
 Kar123456
@@ -34000,6 +34046,7 @@ Karaoke2024
 Karaoke2025
 Karaoke2026
 Karaoke2027
+Karshi123456
 Kas12345
 Kas123456
 Kas12345678
@@ -34499,6 +34546,8 @@ Ko12345678
 Ko123456789
 Ko654321
 Ko789456
+Koba123456789
+Kokand25
 Koko12345
 Kokoko12
 Kol123456
@@ -34600,6 +34649,7 @@ Koronavirus2026
 Koronavirus2027
 Kos12345
 Kos123456
+Kosanostra123
 Kot12345
 Kot1234567
 Kot123456789
@@ -34621,6 +34671,7 @@ Kpmg2024
 Kpmg2025
 Kpmg2026
 Kpmg2027
+Kr!$tina123456
 Kr123456
 Kr1234567
 Kr12345678
@@ -35575,6 +35626,8 @@ Lkjhg54321
 Lkjhg654
 Lkjhg789
 Lkjhg987
+Lkjhgfdsa12345@
+Lkjhgfdsa1983
 Lkjhgnp1
 Ll!12345
 Ll000000
@@ -36452,6 +36505,7 @@ M,./1236
 M,123456
 M,jkui78
 M000000m
+M0U3Rn2Zng
 M0nday123
 M0nday1234
 M111111m
@@ -37807,6 +37861,7 @@ Mary789*
 Mary888
 Mary963
 Mary999
+Maryam028
 Mask123
 Mask1234
 Mask2015
@@ -39308,6 +39363,7 @@ Mnbvc987
 Mnbvc98765
 Mnbvcx123
 Mnbvcx1234
+Mnbvcx12345
 Mnbvcx21
 Mnbvcx34
 Mnbvcxz098
@@ -39363,6 +39419,7 @@ Mo1234567
 Mo12345678
 Mo654321
 Mo777777
+MobiDealer123
 Mobilephone1
 Mobilephone123
 Mobilephone1234
@@ -39741,6 +39798,7 @@ Moscow2024
 Moscow2025
 Moscow2026
 Moscow2027
+Moskva123456
 Mosque2015
 Mosque2016
 Mosque2017
@@ -44102,6 +44160,7 @@ Panasonic29
 Panda007
 Panda123
 Panda1234
+Panda123456!
 Panda2015
 Panda2016
 Panda2017
@@ -44410,6 +44469,7 @@ Parus2026
 Parus2027
 Pas$1234
 Pas$w0rd
+Pas$w0rd2018
 Pas12345
 Pas123456
 Pas12345678
@@ -45752,6 +45812,7 @@ Pasword2025
 Pasword2026
 Pasword2027
 Patagonia1
+Patagonia3000
 Path1234
 Patience1
 Patience123
@@ -46600,6 +46661,7 @@ Poiuytrewq123
 Poiuytrewq1234
 Poiuytrewq12345
 Poiuytrewq22
+Poiuytrewq246
 Poiuytrewq3
 Poiuytrewq321
 Poiuytrewq4321
@@ -49363,8 +49425,10 @@ QWqw12345
 QWqw123456
 QWzx1234
 QWzx8963
+QX8d5fvZvy
 Q^erty123
 Q^erty1234
+Q_werty12345@
 Qa0123456
 Qa01234567
 Qa098765
@@ -49486,6 +49550,7 @@ Qasdf123
 Qasdf1234
 Qasdfgh123
 Qasdfgh1234
+Qasdfghjkl654321
 Qashqai2015
 Qashqai2016
 Qashqai2017
@@ -50114,6 +50179,7 @@ Qazwsx!2345
 Qazwsx!23456
 Qazwsx!@
 Qazwsx!@#
+Qazwsx%12345
 Qazwsx*123
 Qazwsx*1234
 Qazwsx-1
@@ -50177,6 +50243,7 @@ Qazwsx1234!
 Qazwsx1234%
 Qazwsx12345
 Qazwsx12345!
+Qazwsx12345#
 Qazwsx12345%
 Qazwsx123456
 Qazwsx123456!
@@ -50748,11 +50815,13 @@ Qazxsw999
 Qazxsw@1
 Qazxsw@123
 Qazxsw@1234
+Qazxsw@12345
 Qazxsw@2
 Qazxsw_123
 Qazxsw_1234
 Qazxswe123
 Qazxswe1234
+Qazxswe12345
 Qazxswedc1
 Qazxswedc12
 Qazxswedc123
@@ -52848,6 +52917,7 @@ Qweasdzxc21
 Qweasdzxc22
 Qweasdzxc222
 Qweasdzxc23
+Qweasdzxc2345
 Qweasdzxc3
 Qweasdzxc32
 Qweasdzxc321
@@ -53614,6 +53684,7 @@ Qwert12345678
 Qwert123456789
 Qwert1234567890
 Qwert1234569
+Qwert123456=
 Qwert12345@
 Qwert12345Qwert
 Qwert12345^
@@ -53976,6 +54047,7 @@ Qwerty#33
 Qwerty#333
 Qwerty#4
 Qwerty#456
+Qwerty#54321
 Qwerty#6
 Qwerty#7
 Qwerty#8
@@ -53987,11 +54059,14 @@ Qwerty$11
 Qwerty$12
 Qwerty$123
 Qwerty$1234
+Qwerty$12345
+Qwerty$123456
 Qwerty$321
 Qwerty$4
 Qwerty$44
 Qwerty$45
 Qwerty$5
+Qwerty$54321
 Qwerty$6
 Qwerty$7
 Qwerty$789
@@ -54109,6 +54184,8 @@ Qwerty-4
 Qwerty-5
 Qwerty-55
 Qwerty-6
+Qwerty-654321
+Qwerty-7654321
 Qwerty-77
 Qwerty-777
 Qwerty-789
@@ -54148,6 +54225,7 @@ Qwerty.9
 Qwerty//
 Qwerty/123
 Qwerty/1234
+Qwerty/12345
 Qwerty/789
 Qwerty/852
 Qwerty0
@@ -54161,6 +54239,7 @@ Qwerty000
 Qwerty0000
 Qwerty00000
 Qwerty000000
+Qwerty0000000
 Qwerty0001
 Qwerty0002
 Qwerty0003
@@ -54232,6 +54311,7 @@ Qwerty0123456
 Qwerty01234567
 Qwerty012345678
 Qwerty0123456789
+Qwerty01234567890
 Qwerty013
 Qwerty014
 Qwerty0147
@@ -54618,6 +54698,7 @@ Qwerty123!!!!
 Qwerty123!*
 Qwerty123!@
 Qwerty123!@#
+Qwerty123!@#$
 Qwerty123#
 Qwerty123##
 Qwerty123$
@@ -54684,8 +54765,10 @@ Qwerty12345!!
 Qwerty12345!!!
 Qwerty12345!!!!
 Qwerty12345!!!!!
+Qwerty12345!#
 Qwerty12345!@
 Qwerty12345!@#
+Qwerty12345!@#$
 Qwerty12345!@#$%
 Qwerty12345#
 Qwerty12345$
@@ -54708,17 +54791,22 @@ Qwerty123456!
 Qwerty123456!!
 Qwerty123456!!!
 Qwerty123456!@
+Qwerty123456!@#
 Qwerty123456#
 Qwerty123456$
 Qwerty123456%
 Qwerty123456&
 Qwerty123456*
+Qwerty123456**
 Qwerty123456+
 Qwerty123456-
 Qwerty123456.
+Qwerty123456...
+Qwerty123456/
 Qwerty1234560
 Qwerty12345612
 Qwerty1234566
+Qwerty123456678
 Qwerty1234567
 Qwerty1234567!
 Qwerty1234567!!
@@ -54731,7 +54819,10 @@ Qwerty12345678
 Qwerty12345678!
 Qwerty123456789
 Qwerty123456789!
+Qwerty123456789!@#
+Qwerty123456789$
 Qwerty123456789*
+Qwerty123456789+
 Qwerty123456789-
 Qwerty1234567890
 Qwerty1234567890!
@@ -54748,19 +54839,27 @@ Qwerty1234567891
 Qwerty12345678910
 Qwerty1234567891011
 Qwerty12345678912
+Qwerty123456789123456
+Qwerty1234567893
+Qwerty123456789_
 Qwerty1234567@
 Qwerty1234568
 Qwerty123456@
+Qwerty123456G
 Qwerty123456Q
 Qwerty123456^
 Qwerty123456_
 Qwerty123457
+Qwerty1234577777
 Qwerty123458
 Qwerty12345@
+Qwerty12345@@@
+Qwerty12345R
 Qwerty12345^
 Qwerty12345_
 Qwerty12345asd
 Qwerty12346
+Qwerty12346!
 Qwerty12347
 Qwerty12348
 Qwerty12349
@@ -54843,6 +54942,7 @@ Qwerty1316
 Qwerty1319
 Qwerty132
 Qwerty1324
+Qwerty13245
 Qwerty133
 Qwerty1331
 Qwerty1337
@@ -54883,6 +54983,7 @@ Qwerty145
 Qwerty146
 Qwerty147
 Qwerty147!
+Qwerty147!@#
 Qwerty147*
 Qwerty147147
 Qwerty147258
@@ -55084,6 +55185,7 @@ Qwerty1@
 Qwerty1@#
 Qwerty1@3
 Qwerty1@34
+Qwerty1@3456
 Qwerty1@@
 Qwerty1_
 Qwerty1`
@@ -55108,6 +55210,7 @@ Qwerty2007
 Qwerty2008
 Qwerty2009
 Qwerty201
+Qwerty20101978
 Qwerty2015
 Qwerty2015!
 Qwerty2015!!
@@ -55344,6 +55447,7 @@ Qwerty2209
 Qwerty221
 Qwerty2210
 Qwerty2211
+Qwerty221122
 Qwerty2212
 Qwerty2218
 Qwerty222
@@ -55648,6 +55752,7 @@ Qwerty46
 Qwerty465
 Qwerty468
 Qwerty47
+Qwerty4744
 Qwerty4789
 Qwerty4791
 Qwerty48
@@ -55683,6 +55788,8 @@ Qwerty5432!
 Qwerty54321
 Qwerty54321!
 Qwerty54321!!
+Qwerty54321!@#
+Qwerty54321$$
 Qwerty543210
 Qwerty54321`
 Qwerty545
@@ -55829,6 +55936,7 @@ Qwerty76543
 Qwerty765432
 Qwerty7654321
 Qwerty7654321!
+Qwerty7656
 Qwerty7676
 Qwerty769
 Qwerty77
@@ -55852,6 +55960,7 @@ Qwerty7777777777
 Qwerty7778
 Qwerty77788
 Qwerty777888
+Qwerty777999
 Qwerty777@
 Qwerty7788
 Qwerty7789
@@ -56070,6 +56179,7 @@ Qwerty@12345
 Qwerty@123456
 Qwerty@1234567
 Qwerty@12345678
+Qwerty@123456789
 Qwerty@124
 Qwerty@125
 Qwerty@129
@@ -56121,6 +56231,7 @@ Qwerty@456
 Qwerty@46
 Qwerty@5
 Qwerty@54321
+Qwerty@543210
 Qwerty@55
 Qwerty@56
 Qwerty@66
@@ -56131,6 +56242,7 @@ Qwerty@789
 Qwerty@85
 Qwerty@9
 Qwerty@91
+Qwerty@96321
 Qwerty@99
 Qwerty@@
 Qwerty@@123
@@ -56224,6 +56336,7 @@ Qwerty_55
 Qwerty_555
 Qwerty_5678
 Qwerty_6
+Qwerty_654321
 Qwerty_7
 Qwerty_76
 Qwerty_77
@@ -56259,6 +56372,7 @@ Qwertyasdzxc123
 Qwertyasdzxc1234
 Qwertyaz123
 Qwertyaz1234
+Qwertyo12345
 Qwertyq1
 Qwertyq123
 Qwertyq1234
@@ -56279,6 +56393,7 @@ Qwertyu0
 Qwertyu00
 Qwertyu007
 Qwertyu01
+Qwertyu0123456789
 Qwertyu02
 Qwertyu03
 Qwertyu04
@@ -56303,6 +56418,7 @@ Qwertyu123+
 Qwertyu1234
 Qwertyu12345
 Qwertyu12345!
+Qwertyu12345*
 Qwertyu123456
 Qwertyu1234567
 Qwertyu12345678
@@ -56470,6 +56586,7 @@ Qwertyuiop
 Qwertyuiop!
 Qwertyuiop!1
 Qwertyuiop$005
+Qwertyuiop+++++
 Qwertyuiop-1
 Qwertyuiop0
 Qwertyuiop00
@@ -56503,6 +56620,7 @@ Qwertyuiop16
 Qwertyuiop17
 Qwertyuiop18
 Qwertyuiop19
+Qwertyuiop1911
 Qwertyuiop1966
 Qwertyuiop1976
 Qwertyuiop1977
@@ -56528,6 +56646,7 @@ Qwertyuiop2026
 Qwertyuiop2027
 Qwertyuiop21
 Qwertyuiop22
+Qwertyuiop22.
 Qwertyuiop2222
 Qwertyuiop23
 Qwertyuiop25
@@ -57044,6 +57163,7 @@ Real2027
 RealMadrid1
 Realmadrid1
 Realmadrid2
+Realmadrid2026
 Realmadrid3
 Realmadrid7
 Reboot123
@@ -58268,6 +58388,7 @@ SPRING_2027
 SQL
 SS123456
 SSA
+SSS123456789*
 SSS333sss
 SSSsss111
 SSSsss123
@@ -58435,6 +58556,7 @@ Saddam@2006
 Saddam@2007
 Saddam@2008
 Sae123456
+Safar123
 Safety123
 Safety1234
 Safety12345
@@ -58515,6 +58637,8 @@ Sam12345678
 Samanta1
 Samanta123
 Samanta1234
+Samarkand777
+Samira2005
 Sample1
 Sample12
 Sample123
@@ -58553,6 +58677,7 @@ Samsung1983
 Samsung1984
 Samsung1992
 Samsung1997
+Samsung1997$
 Samsung2
 Samsung20
 Samsung2015
@@ -58600,6 +58725,7 @@ Samsung9
 Samsung911
 Samsung999
 SamsungA30
+Samsung_88
 Samurai1
 Samurai123
 Samurai1234
@@ -59225,6 +59351,7 @@ Sega2025
 Sega2026
 Sega2027
 Sel12345
+Selena123!@#
 Selfisolation05
 Selfisolation2018
 Selfisolation2019
@@ -59469,6 +59596,7 @@ September/2024
 September/2025
 September/2026
 September/2027
+September00
 September01
 September0109
 September02
@@ -60505,6 +60633,7 @@ Smart2025
 Smart2026
 Smart2027
 Smart777
+Smena12345
 Smile123
 Smile1234
 Smile2015
@@ -61017,6 +61146,7 @@ Spanish2026
 Spanish2027
 Spark123
 Spark1234
+Spark12345678
 Sparta123
 Sparta1234
 Sparta21
@@ -62077,6 +62207,7 @@ Ssss7777
 Sssss2222
 Sssssss1
 Ssv123456
+St020202
 St0r@ge!
 St123456
 St1234567
@@ -67045,6 +67176,7 @@ Vl12345678
 Vl654321
 Vla12345
 Vla123456
+Vladislav12345
 Vm111111
 Vm123456
 Vm1234567
@@ -69535,6 +69667,8 @@ Wonderful2024
 Wonderful2025
 Wonderful2026
 Wonderful2027
+Wonderfull12
+Wonderfull18
 Wontte11
 Wonttell1
 Word1234
@@ -71167,6 +71301,7 @@ Ytrewq456
 Ytrewq54321
 Ytrewq654321
 Ytrewq789
+Ytrewq87654321
 Ytrewq88
 Ytrewq987
 Yu123123
@@ -71270,6 +71405,7 @@ Z!123456
 Z!X@c3v4
 Z!X@c3v4b5
 Z!x2c3v4
+Z!xcvb123456
 Z#123456
 Z.123456
 Z111111z
@@ -72511,6 +72647,7 @@ Zaxscd321
 Zaxscdvf12
 Zaxscdvf123
 Zaxscdvf1234
+Zayni1997
 Zaz123456
 Zaz12345678
 Zaza1111
@@ -72662,6 +72799,7 @@ Zse4Xdr5Cft6
 Zse4rfvgy7
 Zse4xdr%
 Zse4xdr5
+Zse4xdr54321
 Zsefv123
 Zsefv1234
 Zserdx123
@@ -73412,6 +73550,7 @@ Zxcasdqwe123$
 Zxcasdqwe1234
 Zxcasdqwe12345
 Zxcasdqwe123456
+Zxcasdqwe123@
 Zxcasdqwe2015
 Zxcasdqwe2016
 Zxcasdqwe2017
@@ -74126,6 +74265,7 @@ Zxcvbn1234567
 Zxcvbn12345678
 Zxcvbn123456789
 Zxcvbn1234567890
+Zxcvbn123457
 Zxcvbn1236
 Zxcvbn12369
 Zxcvbn123789
@@ -74322,6 +74462,7 @@ Zxcvbnm!23
 Zxcvbnm!2345
 Zxcvbnm!23456
 Zxcvbnm!@
+Zxcvbnm#123456
 Zxcvbnm,
 Zxcvbnm,.
 Zxcvbnm,./
@@ -74332,6 +74473,7 @@ Zxcvbnm,./12
 Zxcvbnm,./123
 Zxcvbnm,./1234
 Zxcvbnm,./12345
+Zxcvbnm,./123456
 Zxcvbnm,./13
 Zxcvbnm,./20
 Zxcvbnm,./21
@@ -74388,6 +74530,7 @@ Zxcvbnm12#
 Zxcvbnm1212
 Zxcvbnm123
 Zxcvbnm123!
+Zxcvbnm123!@#
 Zxcvbnm123*
 Zxcvbnm1230
 Zxcvbnm1234
@@ -74395,6 +74538,7 @@ Zxcvbnm1234%
 Zxcvbnm12345
 Zxcvbnm12345!
 Zxcvbnm123456
+Zxcvbnm123456!
 Zxcvbnm1234567
 Zxcvbnm12345678
 Zxcvbnm123456789
@@ -74536,6 +74680,7 @@ Zxcvbnm999
 Zxcvbnm=
 Zxcvbnm@123
 Zxcvbnm@1234
+Zxcvbnm@12345
 Zxcvbnm_123
 Zxcvbnm_1234
 Zxcvfdsa1234
@@ -78011,6 +78156,7 @@ freedom
 friend
 ftp
 fucker
+fuckerG7$kL9#mQ2&xP4!w
 fuckyou
 funkwerk
 fw
@@ -81241,6 +81387,7 @@ qWERTY123
 qWERTY1234
 qWERTY12345
 qWERTY123456
+qWERTY123456!
 qWERTY789
 qWERt6YU
 qWe1234
@@ -81321,6 +81468,7 @@ qaz123QAZ
 qaz123QAZ!@#
 qaz123QWE
 qaz123WSX
+qaz123WSX!@#
 qaz123WSX456
 qaz123qaz
 qaz123wsx
@@ -82508,6 +82656,7 @@ qwerty123456*
 qwerty123456+
 qwerty123456/
 qwerty1234567
+qwerty1234567!
 qwerty12345678
 qwerty123456789
 qwerty123456=
